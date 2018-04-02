@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Testing_curve_rotation",
+"dataUrl": "player_settings.data.unityweb",
+"asmCodeUrl": "player_settings.asm.code.unityweb",
+"asmMemoryUrl": "player_settings.asm.memory.unityweb",
+"asmFrameworkUrl": "player_settings.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
